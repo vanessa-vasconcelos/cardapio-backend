@@ -3,7 +3,7 @@
 
 ## 🔁 Clonando o Projeto
 
-``` git clone https://github.com/vanessa-vasconcelos/cardapio.git ```
+``` git clone https://github.com/vanessa-vasconcelos/cardapio-backend.git ```
 
 ## ▶️ Executando o Projeto
 
