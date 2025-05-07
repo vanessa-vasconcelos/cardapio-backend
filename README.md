@@ -8,6 +8,6 @@
 ## ▶️ Executando o Projeto
 
 ```
-cd cadapio_backend
+cd cardapio_backend
 ./mvnw spring-boot:run
 ```
